@@ -10,15 +10,15 @@ package inheritance;
  * @author eka
  */
 public class BangunDatar {
-    
+
     float luas() {
         System.out.println("menghitung luas bangundatar");
         return 0;
     }
-    
+
     float keliling() {
         System.out.println("Menghitung keliling bangun datar");
         return 0;
     }
-    
+
 }
